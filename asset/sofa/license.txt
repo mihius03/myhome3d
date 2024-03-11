@@ -1,0 +1,11 @@
+Model Information:
+* title:	Clean sofa
+* source:	https://sketchfab.com/3d-models/clean-sofa-808f2fb08b4e44d9a4ab8fdebea4f41b
+* author:	Simon Phan (https://sketchfab.com/sphan)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Clean sofa" (https://sketchfab.com/3d-models/clean-sofa-808f2fb08b4e44d9a4ab8fdebea4f41b) by Simon Phan (https://sketchfab.com/sphan) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

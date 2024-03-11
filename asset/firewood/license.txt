@@ -1,0 +1,11 @@
+Model Information:
+* title:	Firewood Pile (game ready asset)
+* source:	https://sketchfab.com/3d-models/firewood-pile-game-ready-asset-393e8b83dfdc455fa4f03dbd4f116e0c
+* author:	Pixel Life (https://sketchfab.com/pixellife)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Firewood Pile (game ready asset)" (https://sketchfab.com/3d-models/firewood-pile-game-ready-asset-393e8b83dfdc455fa4f03dbd4f116e0c) by Pixel Life (https://sketchfab.com/pixellife) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
